@@ -363,7 +363,7 @@ function App() {
               className="text-white/70 font-['Montserrat'] text-base sm:text-lg lg:text-xl font-light mb-2 sm:mb-3"
               variants={itemVariants}
             >
-              SYRA - AI Extension <span className="text-white/70 font-mono ml-2">CA: xxxxxxxxxxxxxxxxxxx</span>
+              SYRA - AI Extension <span className="text-white/70 font-mono ml-2">CA: LMAOOOOOO</span>
             </motion.h1>
             <motion.h2 
               className="text-white font-['Inter'] text-[16px] sm:text-[22px] md:text-[28px] lg:text-[32px] 
